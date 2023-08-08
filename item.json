@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "watch",
+      "brand": "TITAN",
+      "price": "120,000",
+      "images": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "watch",
+      "brand": "Shoes",
+      "images": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Mobile",
+      "brand": "Iphone",
+      "price": "90,000",
+      "images": "https://images.pexels.com/photos/46924/pexels-photo-46924.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "watch",
+      "brand": "Pants",
+      "images": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "watch",
+      "brand": "Mobile",
+      "images": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "laptop",
+      "brand": "HP",
+      "price": "70,000",
+      "images": "https://images.pexels.com/photos/13791390/pexels-photo-13791390.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+
+      "featured": true
+    }
+  ]
+}
